@@ -5,7 +5,6 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 ## Pontos de estudo
 * Hello World
 * Data Types
-* Required import (Importando classses java - esta com bug :)
 * Operadores
 * Loops
 * Decision-making
@@ -13,3 +12,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Numbers
 * Recursion
 * File I/O
+* String
