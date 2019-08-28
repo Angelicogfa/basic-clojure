@@ -11,3 +11,5 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Decision-making
 * Function Description
 * Numbers
+* Recursion
+* File I/O
