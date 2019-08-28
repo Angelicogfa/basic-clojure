@@ -26,7 +26,7 @@
 (multiples_test_if_statement 10 10 20 20)
 (multiples_test_if_statement 10 10 20 30)
 
-;; Switch case
+;; Simple switch case
 (defn switch_case_statement [value]
   (case value 5
         (println "x is 5")
@@ -35,3 +35,14 @@
 (switch_case_statement 5)
 (switch_case_statement 10)
 (switch_case_statement 15)
+
+;; Condicional switch
+(defn cond_statament [value]
+  (cond
+    (= value 5) (println "x is 5")
+    (= value 10) (println "x is 10")
+    :else (println "x is not definied")))
+(cond_statament 5)
+(cond_statament 10)
+(cond_statament 15)
+
