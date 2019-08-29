@@ -40,3 +40,4 @@
 
 ;; Retorna os itens após a remoção do primeiro item
 (println (rest _list))
+(println (pop _list))
