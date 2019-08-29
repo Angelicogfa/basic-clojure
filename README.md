@@ -17,3 +17,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Set
 * Vector
 * Hashmap
+* Namespace
