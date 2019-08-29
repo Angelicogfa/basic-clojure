@@ -3,7 +3,7 @@
 Um projeto de estudo para clojure com base no site [Tutoriais point](https://www.tutorialspoint.com/clojure/)
 
 ## Pontos de estudo
-* [Hello World]("~/src/estudo_clojure/hello-world.clj")
+* Hello World
 * Data Types
 * Operadores
 * Loops
