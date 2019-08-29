@@ -3,7 +3,7 @@
 Um projeto de estudo para clojure com base no site [Tutoriais point](https://www.tutorialspoint.com/clojure/)
 
 ## Pontos de estudo
-* Hello World
+* [Hello World]("./src/estudo_clojure/hello-world.clj")
 * Data Types
 * Operadores
 * Loops
@@ -16,3 +16,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * List
 * Set
 * Vector
+* Hashmap
