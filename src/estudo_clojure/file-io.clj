@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.file-io)
+(ns clojure.estudo_clojure.file-io
+  (:gen-class))
 
 ;; Escrever um arquivo
 (defn write_file [file text]

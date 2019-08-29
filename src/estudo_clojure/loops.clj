@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.loops)
+(ns clojure.estudo_clojure.loops
+  (:gen-class))
 
 
 ;; Este bloco executa um while  

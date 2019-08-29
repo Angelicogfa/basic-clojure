@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.strings)
+(ns clojure.estudo_clojure.strings
+  (:gen-class))
 
 ;; Concatenar string
 (defn concat_string [values]

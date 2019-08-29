@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.decision-making)
+(ns clojure.estudo_clojure.decision-making
+  (:gen-class))
 
 ;; Bloco if
 (defn if_statement [value1 value2]

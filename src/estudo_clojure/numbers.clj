@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.numbers)
+(ns clojure.estudo_clojure.numbers
+  (:gen-class))
 
 ;; Numbers types
 (defn numbers_types []

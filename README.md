@@ -13,3 +13,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Recursion
 * File I/O
 * String
+* List

@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.recursividade)
+(ns clojure.estudo_clojure.recursividade
+  (:gen-class))
 
 ;; Função fibonnaci
 (defn fib [n]

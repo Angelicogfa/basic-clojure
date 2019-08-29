@@ -1,4 +1,5 @@
-(ns clojure.estudo_clojure.function_description)
+(ns clojure.estudo_clojure.function_description
+  (:gen-class))
 
 ;; Definicão de método
 (defn function_definition []
