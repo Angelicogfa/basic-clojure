@@ -20,3 +20,5 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Namespace
 * Exception Handler
 * Sequences
+* Regular expression
+* Predicates
