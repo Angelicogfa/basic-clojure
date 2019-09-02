@@ -19,3 +19,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Hashmap
 * Namespace
 * Exception Handler
+* Sequences
