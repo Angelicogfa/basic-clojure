@@ -22,6 +22,18 @@
 (defn function_parameters [x y] (* 2 x y))
 (demo 3 8)
 
+(defn function_override
+  ([]
+   (println "Ola"))
+  ([nome]
+   (println "Ola" nome))
+  ([nome sobrenome]
+   (println "Ola" nome sobrenome)))
+
+(function_override)
+(function_override "Jose")
+(function_override "Jose" "Pedro")
+
 ;; Função Variadic *
 (defn function_variadic [message & others]
   (str message (clojure.string/join " " others)))

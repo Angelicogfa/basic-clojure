@@ -29,3 +29,4 @@ Um projeto de estudo para clojure com base no site [Tutoriais point](https://www
 * Struct Map
 * Agents
 * Watch
+* Macro
